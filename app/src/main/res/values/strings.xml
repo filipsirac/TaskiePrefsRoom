@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Taskie</string>
+    <string name="newTaskHeadingText">New task:</string>
+    <string name="newTaskTitleInputHint">Enter task title</string>
+    <string name="newTaskDescriptionInputHint">Enter task description</string>
+    <string name="lowPriority">Low</string>
+    <string name="mediumPriority">Medium</string>
+    <string name="highPriority">High</string>
+    <string name="saveTaskActionText">Save</string>
+    <string name="emptyFields">Check your inputs</string>
+    <string name="noTaskFound">No such task found</string>
+    <string name="no_data">No data! :(</string>
+    <string name="nav_title">Tasks</string>
+    <string name="nav_about">About</string>
+
+    <string name="about_author_fragment">Filip Širac student at Android Academy</string>
+    <string name="about_app_text">About app fragment, this is Taski app which helps you organize your tasks.</string>
+    <string name="update_changes">update</string>
+    <string name="sort_by_priority">Sort by priority</string>
+    <string name="delete_all">Delete all</string>
+    <string name="updateTaskHeadingText">Update task:</string>
+</resources>
